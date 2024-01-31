@@ -1,4 +1,7 @@
 package in.jobjunction.Service.auth;
 
+import org.springframework.stereotype.Service;
+
+@Service
 public class JwtTokenProvider {
 }
